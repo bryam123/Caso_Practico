@@ -53,7 +53,7 @@ include_once "Layouts/nav.php";
             <div class="row">
                 <div class="col form-group">
                   <label for="">Fecha</label>
-                  <input type="text" id="fecha_rec" class="form-control" required>
+                  <input type="text" id="fecha_rec" class="form-control" readonly>
                 </div>
             </div>
             <div class="row">
@@ -99,7 +99,7 @@ include_once "Layouts/nav.php";
         </div>
         </div>
         <div class="row text-center" style= "color: #3E938F;">
-            <b class="fs-3 p-0" style ="font-family:Helvetica, sans-serif;">Billetera</b>
+            <b class="fs-3 p-0" style ="font-family:Helvetica, sans-serif;">Billetera Virtual</b>
         </div>
       </div><!-- /.container -->
     </section>

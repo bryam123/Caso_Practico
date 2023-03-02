@@ -26,7 +26,7 @@ include_once "Layouts/nav.php";
     <div class="modal-content">
         <div class="card card-primary">
             <div class="card-header">
-                <h3 class="card-title">Crear un nuevo Usuario</h3>
+                <h3 class="card-title">Crear un nuevo Jugador</h3>
                 <button data-dismiss="modal" aria-label="close" class="close">
                     <span aria-hidden="true">&times;</span>
                 </button>
@@ -123,7 +123,7 @@ include_once "Layouts/nav.php";
     <div class="modal-content">
         <div class="card card-primary">
             <div class="card-header">
-                <h3 class="card-title">Editar Uusuario</h3>
+                <h3 class="card-title">Editar Jugador</h3>
                 <button data-dismiss="modal" aria-label="close" class="close">
                     <span aria-hidden="true">&times;</span>
                 </button>
